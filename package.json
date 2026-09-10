@@ -1,0 +1,1 @@
+{"name":"ha-control-center-card","version":"0.2.0","description":"Home Assistant Lovelace custom card","license":"MIT","scripts":{"check":"node --check ha-control-center-card.js"}}
